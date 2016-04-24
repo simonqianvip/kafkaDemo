@@ -12,6 +12,7 @@ public class App
         System.out.println( "Hello IDEA!" );
         System.out.println( "Hello IDEA! It's Three" );
         System.out.println( "Hello IDEA! It's Four" );
+        System.out.println( "Hello IDEA! It's Six" );
 
     }
 }
